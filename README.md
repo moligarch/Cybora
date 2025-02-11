@@ -1,1 +1,1 @@
-# Protecta: Cybersecurity Solution
+# Cybora: Cybersecurity Solution
