@@ -6,7 +6,7 @@
 
 ---
 
-## 🌟 Features
+## 🌟 Features (To Do)
 cybora is composed of the following products, each named after war literature and designed to address specific security challenges (this is not the final architecture and products and their modules could get changed):
 
 1. **CyborWall (Firewall)**  
