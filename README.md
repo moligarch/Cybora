@@ -120,7 +120,7 @@ I myself welcome any kind of contributions! To be organized, Please follow these
 ---
 
 ## 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
